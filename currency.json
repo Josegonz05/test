@@ -1,11 +1,21 @@
-{"currency":
+{"currency":[
            {"co_currency":"Bs.",
-            "na_currrency":"Bolivar",
+            "na_currency":"Bolivar",
             "nu_code_currrency":"01",
             "na_country":"Venezuela",
-            "co_operation":"I"
-            
+            "co_operation":"I"        
+     
+           },
            
-           
+           {"co_currency":"USD",
+            "na_currency":"Dolar CENCOEX",
+            "nu_code_currrency":"02",
+            "na_country":"ESTADOS UNIDADOS",
+            "co_operation":"I"        
+     
            }
+           
+
+
+]
            }
