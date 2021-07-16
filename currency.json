@@ -1,10 +1,11 @@
-"currecy":{[
+{"currecy":[
            {"co_currency":"Bs.",
             "n_currrency":"Bolivar",
             "nu_code_currrency":"01",
             "na_country":"Venezuela",
             "co_operation":"I"
             
-           }
+           
            
            ]}
+           }
